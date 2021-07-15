@@ -17,7 +17,7 @@
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
-I'm learning at the moment **Django Framework & Javscript**
+I'm learning at the moment **Django Framework & Javascript**
 
 
 ## 🛠️ Tech Stack
@@ -28,7 +28,7 @@ I'm learning at the moment **Django Framework & Javscript**
 ## ⚡GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmarlon&show_icons=true&theme=tokyonight )](https://github.com/pmarlon?tab=repositories)
 
-###   "Mude, mas comece devagar, pois a direção é mais importante que a velocidade." 🚀  🍀 
+### "Mude, mas comece devagar, pois a direção é mais importante que a velocidade." 🚀  🍀 
 
 - Thanks for visiting.
 
