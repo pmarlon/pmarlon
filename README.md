@@ -5,8 +5,6 @@
 
 ## 👨‍💻 About me 
 
-☕ Coffee lover , 🎶 Music lover  and Tech lover .
-
 👨‍🎓  I'm currently studying Systems Analysis and Development at UNESA
 
 :books: Don't stop to learn!
