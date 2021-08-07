@@ -24,7 +24,7 @@ I'm learning at the moment **Django Framework & Javascript**
 
 
 ## ⚡GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmarlon&show_icons=true&theme=tokyonight& count_private = true )](https://github.com/pmarlon?tab=repositories)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmarlon&show_icons=true&theme=tokyonight & count_private = true )](https://github.com/pmarlon?tab=repositories)
 
 ### "Mude, mas comece devagar, pois a direção é mais importante que a velocidade." 🚀  🍀 
 
