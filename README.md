@@ -11,7 +11,7 @@
 
 :house_with_garden:  I’m from Brazil.
 
-:computer: Future Back-End Developer!
+:computer: Future Full Stack Developer!
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
