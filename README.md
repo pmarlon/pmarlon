@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patric Marlon</h1>  
-<h3 align="center">I'm currently studying Systems Analysis and Development at UNESA</h3>  
-  
-- 🔭 I’m currently working on [GreenTea](http://www.greentea.somee.com/)  
+<h3 align="center">Systems Analysis and Development at UNESA</h3>  
   
 - 🌱 I’m currently learning **.Net Framework**  
   
@@ -13,7 +11,7 @@
 <p align="left">  
 <a href="https://linkedin.com/in/patric-marlon-1409311b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patric-marlon-1409311b8" height="30" width="40" /></a>  
 <a href="https://fb.com/patric.marlon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="patric.marlon" height="30" width="40" /></a>  
-<a href="https://instagram.com/patryc_pmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patryc_pmj" height="30" width="40" /></a>  
+<a href="https://instagram.com/patricmarlon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patricmarlon" height="30" width="40" /></a>  
 </p>  
   
 <h3 align="left">Languages and Tools:</h3>  
